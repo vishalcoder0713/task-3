@@ -1,0 +1,28 @@
+body {
+  background-color: yellowgreen;
+}
+.head {
+  color: darkblue;
+}
+.head-color {
+  color: red;
+}
+#bglime {
+  background-color: lime;
+}
+p {
+  color: white;
+}
+#para {
+  color: green;
+}
+.head-color {
+  color: black;
+  font-size: 20px;
+}
+strong {
+  color: yellow;
+}
+a {
+  color: blue;
+}
